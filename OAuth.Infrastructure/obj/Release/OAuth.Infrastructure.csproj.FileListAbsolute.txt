@@ -1,0 +1,15 @@
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\OAuth.Infrastructure.dll
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\OAuth.Infrastructure.pdb
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\EntityFramework.dll
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\EntityFramework.xml
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\obj\Release\OAuth.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\obj\Release\OAuth.Infrastructure.dll
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\obj\Release\OAuth.Infrastructure.pdb
+c:\users\acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Infrastructure\obj\Release\OAuth.Infrastructure.csproj.GenerateResource.Cache
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\OAuth.Model.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\Newtonsoft.Json.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\OAuth.Model.pdb
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Infrastructure\bin\Release\Newtonsoft.Json.xml
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Infrastructure\obj\Release\OAuth.Infrastructure.Migrations.Init.resources

@@ -1,0 +1,16 @@
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\OAuth.Application.dll.config
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\OAuth.Application.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\OAuth.Application.pdb
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\EntityFramework.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\OAuth.Infrastructure.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\OAuth.Model.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\Newtonsoft.Json.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\OAuth.Infrastructure.pdb
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\OAuth.Model.pdb
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\EntityFramework.xml
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\bin\Release\Newtonsoft.Json.xml
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\obj\Release\OAuth.Application.csprojResolveAssemblyReference.cache
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\obj\Release\OAuth.Application.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Application\obj\Release\OAuth.Application.pdb

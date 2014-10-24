@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+    { 
+        <fieldset>
+            <input id="redirecturl" type="hidden" name="redirecturl" value="@ViewBag.RedirectUrl" />
+
+            <p>
+                <label for="username">Usuario</label>
+                <input id="username" type="text" name="username" />
+            </p>
+            <p>
+                <label for="password">Senha</label>
+                <input id="password" type="text" name="password" />
+            </p>
+            <p>
+                <button type="submit">Enviar</button>
+            </p>
+        </fieldset>
+    }
+</body>
+</html>

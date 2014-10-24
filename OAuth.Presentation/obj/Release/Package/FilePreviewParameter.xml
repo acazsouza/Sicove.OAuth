@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="OAuthenticator" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Acaz\\Documents\\Visual\ Studio\ 2013\\Projects\\OAuth\\OAuth\.Presentation\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Acaz\\Documents\\Visual\ Studio\ 2013\\Projects\\OAuth\\OAuth\.Presentation\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="OAuthenticator/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Acaz\\Documents\\Visual\ Studio\ 2013\\Projects\\OAuth\\OAuth\.Presentation\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:ki05ta77q5.database.windows.net;Initial Catalog=OAuthenticator;Integrated Security=False;User ID=OAuthenticator_db@ki05ta77q5;Password=!Hardcore123#;Encrypt=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Acaz\\Documents\\Visual\ Studio\ 2013\\Projects\\OAuth\\OAuth\.Presentation\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

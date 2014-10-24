@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Pagina Inicial</title>
+</head>
+<body>
+    <div>
+        <h1>Pagina Inicial</h1>
+
+        <h2>Logado: @this.User.Identity.IsAuthenticated - <a href="/login/signout">Sair</a></h2>
+    </div>
+</body>
+</html>

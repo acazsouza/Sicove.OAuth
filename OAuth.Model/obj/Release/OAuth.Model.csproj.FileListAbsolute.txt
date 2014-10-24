@@ -1,0 +1,7 @@
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Model\bin\Release\OAuth.Model.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Model\bin\Release\OAuth.Model.pdb
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Model\bin\Release\Newtonsoft.Json.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Model\bin\Release\Newtonsoft.Json.xml
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Model\obj\Release\OAuth.Model.dll
+C:\Users\Acaz\Documents\Visual Studio 2013\Projects\OAuth\OAuth.Model\obj\Release\OAuth.Model.pdb
+C:\Users\Acaz\documents\visual studio 2013\Projects\OAuth\OAuth.Model\obj\Release\OAuth.Model.csprojResolveAssemblyReference.cache
